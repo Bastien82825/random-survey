@@ -10,5 +10,6 @@
 const urls = [
 	'https://rsnqa6uvdz.cognition.run',
 	'https://uc4gmbxafn.cognition.run',
+	'https://5qlvjorfat.cognition.run',
 	'https://6ljdzhygcm.cognition.run'
 ];
