@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://rsnqa6uvdz.cognition.run',
-	'https://uc4gmbxafn.cognition.run',
-	'https://6ljdzhygcm.cognition.run'
+	'https://forms.gle/m2N29Kb45Ztt6Ade6',
+	'https://forms.gle/RUgDvHLaF6dBasF7A',
+	'https://forms.gle/sMUWPUZr56qVYFr47'
 ];
